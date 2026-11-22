@@ -1,14 +1,11 @@
 # 💫 Hi 👋, I'm Mayank Dubey
 **A passionate Data Science Learner || Key Skills - Python | SQL | Machine Learning | Data Analytics | Pandas | NumPy | Scikit‑learn | Data Visualization | EDA  from India**
 
-Email Me 👉 ✉️ **mrcodermayank@gmail.com** For Collaboration/Project or Anything Else. 😊😊
-
 - 🔭 **I’m currently working on:** Machine Learning Projects 
 - 🌱 **I’m currently learning:** Data Science/Machine Learning
 - 👯 **I’m looking to collaborate on:** GITA : Global Institute for Timeless Awareness
 - 🤔 **I’m looking for help with:** Notes😉
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** mrcodermayank@gmail.com
 - 😄 **Pronouns:** He/Him
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
